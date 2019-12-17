@@ -42,7 +42,10 @@ export class ExampleTranslationService extends TranslationService {
             "NewFriend" : "New Friend",
             "NewGroup" : "New Group",
             "NewLocation" : "New Location",
-            "Nickname" : "Nickname"
+            "Nickname" : "Nickname",
+			"Edit Friend": "Edit Friend",
+			"Edit Activity": "Edit Activity",
+			"Add Activity": "Add Activity"
         };
     }
 }
